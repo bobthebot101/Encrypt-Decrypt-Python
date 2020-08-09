@@ -1,5 +1,10 @@
 # Encrypt-Decrypt
 
+We Recommend Python Not colab But colab is an option 
+
+
+Python: 2 Options 
+
 Simple pyhton3 Encrypt and Decrypt 
 Two ways to USE
 
@@ -25,3 +30,10 @@ https://encrypt.nikolagjorgjijo.repl.run
 
 Decrypt Link 
 https://Decrypt.nikolagjorgjijo.repl.run
+
+
+Colab:
+1. download .ipynb file 
+2. go to https://colab.research.google.com/
+3. Import .ipynb File 
+4. Run 
