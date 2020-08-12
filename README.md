@@ -1,7 +1,5 @@
 # Encrypt-Decrypt
 Help: bobthebot101@gmail.com
-We Recommend Python Not colab But colab is an option 
-
 
 Python: 2 Options 
 
@@ -32,8 +30,4 @@ Decrypt Link
 https://Decrypt.nikolagjorgjijo.repl.run
 
 
-Colab:
-1. download .ipynb file 
-2. go to https://colab.research.google.com/
-3. Import .ipynb File 
-4. Run 
+
