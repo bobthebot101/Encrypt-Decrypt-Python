@@ -24,10 +24,10 @@ Option 2 (use the links Below )
 dont have to download Anything 
 
 Encrypt Link 
-https://Encryptpy.bobthethe.repl.run
+https://Encrypt.bobthethe.repl.run
 
 Decrypt Link 
-https://Decryptpy.bobthethe.repl.run
+https://Decrypt.bobthethe.repl.run
 
 
 
